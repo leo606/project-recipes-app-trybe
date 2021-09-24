@@ -52,7 +52,6 @@
   box-shadow: 0 0 6px -1px darkgrey;
   display: flex;
   justify-content: space-between;
-  min-width: 100vw;
   padding: 1em;
 }
 

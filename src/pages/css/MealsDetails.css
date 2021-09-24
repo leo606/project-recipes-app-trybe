@@ -1,9 +1,9 @@
 .details {
-  background-color: whitesmoke;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  margin: 0;
+  margin: 0 auto;
+  max-width: 800px;
   overflow: hidden;
   padding: 0;
 }
@@ -22,4 +22,5 @@
   right: 50%;
   transform: translateX(50%);
   width: 96vw;
+  max-width: 600px;
 }
