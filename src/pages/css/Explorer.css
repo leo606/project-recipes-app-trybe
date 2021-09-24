@@ -1,9 +1,16 @@
+.explorer-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 .button-container {
   align-items: center;
   display: flex;
   flex-direction: column;
   height: 30vh;
+  margin: 0 auto;
   justify-content: space-evenly;
+  max-width: 800px;
 }
 
 .explore-btn {
@@ -14,5 +21,5 @@
   font-size: larger;
   font-weight: 600;
   height: 9vh;
-  width: 90vw;
+  max-width: 600px;
 }

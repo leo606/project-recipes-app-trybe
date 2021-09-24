@@ -5,7 +5,7 @@ import './css/Explorer.css';
 import Footer from '../components/Footer';
 
 const Explorer = () => (
-  <div>
+  <div className="explorer-container">
     <Header title="Explorar" />
     <div className="button-container">
       <Button
