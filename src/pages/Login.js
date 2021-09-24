@@ -3,6 +3,7 @@ import { Input, Button } from '../components';
 import AppContext from '../context/AppContext';
 import verifyLogin from '../helpers/verifyLogin';
 import './css/Login.css';
+import iconJetFood from '../images/iconJetFood.png';
 
 export default function Login() {
   const { setUser } = useContext(AppContext);
@@ -31,7 +32,10 @@ export default function Login() {
 
   return (
     <>
-      <h1 className="login-title">APP de Receitas</h1>
+      <div className="login-title-container">
+        <img className="icon-img" src={ iconJetFood } alt="JetFood icon" />
+        <h1 className="login-title">JetFood</h1>
+      </div>
       <form className="login-form">
         <div className="mb-3">
           <Input
