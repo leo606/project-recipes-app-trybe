@@ -1,6 +1,7 @@
 .expore-by-area-container {
   height: 97vh;
-  width: 100vw;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .explore-by-area-select-container {

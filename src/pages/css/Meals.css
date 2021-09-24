@@ -10,6 +10,8 @@
   flex-flow: wrap;
   justify-content: space-evenly;
   padding: 1em 0 6em;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .meals-categories-container {
