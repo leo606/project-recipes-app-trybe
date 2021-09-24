@@ -1,6 +1,8 @@
 .meals-container {
   height: 97vh;
   width: 100vw;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .meals-cards-container {
@@ -17,7 +19,8 @@
   height: auto;
   justify-content: space-around;
   margin: 0.2em auto;
-  min-width: 100vw;
+  width: 100vw;
+  max-width: 800px;
 }
 
 .meals-categories {
