@@ -5,7 +5,8 @@
   bottom: 0;
   display: flex;
   justify-content: space-around;
-  min-width: 100vw;
+  width: 100vw;
+  max-width: 800px;
   padding: 6px;
   position: fixed;
 }
