@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/project-recipes-app-trybe/static/css/main.7a2ea875.chunk.css",
-    "main.js": "/project-recipes-app-trybe/static/js/main.b7132dee.chunk.js",
-    "main.js.map": "/project-recipes-app-trybe/static/js/main.b7132dee.chunk.js.map",
+    "main.js": "/project-recipes-app-trybe/static/js/main.6b31295e.chunk.js",
+    "main.js.map": "/project-recipes-app-trybe/static/js/main.6b31295e.chunk.js.map",
     "runtime-main.js": "/project-recipes-app-trybe/static/js/runtime-main.0751c503.js",
     "runtime-main.js.map": "/project-recipes-app-trybe/static/js/runtime-main.0751c503.js.map",
-    "static/js/2.dd39efdc.chunk.js": "/project-recipes-app-trybe/static/js/2.dd39efdc.chunk.js",
-    "static/js/2.dd39efdc.chunk.js.map": "/project-recipes-app-trybe/static/js/2.dd39efdc.chunk.js.map",
+    "static/js/2.25dbc20e.chunk.js": "/project-recipes-app-trybe/static/js/2.25dbc20e.chunk.js",
+    "static/js/2.25dbc20e.chunk.js.map": "/project-recipes-app-trybe/static/js/2.25dbc20e.chunk.js.map",
     "index.html": "/project-recipes-app-trybe/index.html",
-    "precache-manifest.b95798dc544c981a78226d2201a750b9.js": "/project-recipes-app-trybe/precache-manifest.b95798dc544c981a78226d2201a750b9.js",
+    "precache-manifest.8be4ca38f8105d9bf7de63498deab261.js": "/project-recipes-app-trybe/precache-manifest.8be4ca38f8105d9bf7de63498deab261.js",
     "service-worker.js": "/project-recipes-app-trybe/service-worker.js",
     "static/css/main.7a2ea875.chunk.css.map": "/project-recipes-app-trybe/static/css/main.7a2ea875.chunk.css.map",
-    "static/js/2.dd39efdc.chunk.js.LICENSE.txt": "/project-recipes-app-trybe/static/js/2.dd39efdc.chunk.js.LICENSE.txt",
+    "static/js/2.25dbc20e.chunk.js.LICENSE.txt": "/project-recipes-app-trybe/static/js/2.25dbc20e.chunk.js.LICENSE.txt",
     "static/media/blackHeartIcon.svg": "/project-recipes-app-trybe/static/media/blackHeartIcon.b8913346.svg",
     "static/media/drinkIcon.svg": "/project-recipes-app-trybe/static/media/drinkIcon.f87c47c3.svg",
     "static/media/exploreIcon.svg": "/project-recipes-app-trybe/static/media/exploreIcon.157945ff.svg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0751c503.js",
-    "static/js/2.dd39efdc.chunk.js",
+    "static/js/2.25dbc20e.chunk.js",
     "static/css/main.7a2ea875.chunk.css",
-    "static/js/main.b7132dee.chunk.js"
+    "static/js/main.6b31295e.chunk.js"
   ]
 }
