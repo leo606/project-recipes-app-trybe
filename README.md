@@ -16,7 +16,7 @@ Principais habilidades desenvolvidas nesse projeto:
 
 ## O que Foi Desenvolvido
 
-Esse projeto foi feito em grupo com os integrantes: [Luiz Henrique](https://github.com/lzzhenrique), [Milton Castro](https://github.com/castromilton07), [Willian Prado](https://github.com/willian-prado) e [Gustavo de Carvalho](https://github.com/Gustavo-Mourao)
+Esse projeto foi feito em grupo com os integrantes: [Leonardo Ferreira](https://github.com/leo606), [Luiz Henrique](https://github.com/lzzhenrique), [Milton Castro](https://github.com/castromilton07), [Willian Prado](https://github.com/willian-prado) e [Gustavo de Carvalho](https://github.com/Gustavo-Mourao)
 
 Foi desevolvido um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
 
