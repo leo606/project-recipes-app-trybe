@@ -1,6 +1,8 @@
 <div align='center'>
   <img width='300px' src="src/images/iconJetFood.png" alt="jetfood logo"></img>
-<h1>JetFood</h1>
+  <h1>JetFood</h1>
+  <a href="https://github.com/leo606/project-recipes-app-trybe">Source Code</a> •
+  <a href="https://leo606.github.io/project-recipes-app-trybe/">Application</a>
 </div>
 
 # Boas vindas ao repositório do projeto de Receitas!
