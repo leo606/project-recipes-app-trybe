@@ -1,3 +1,8 @@
+<div align='center'>
+  <img width='300px' src="src/images/iconJetFood.png" alt="jetfood logo"></img>
+<h1>JetFood</h1>
+</div>
+
 # Boas vindas ao repositório do projeto de Receitas!
 
 # Habilidades
